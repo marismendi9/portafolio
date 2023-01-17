@@ -6438,8 +6438,20 @@ button.bg-dark:focus {
   background-color: #00014f !important;
 }
 
+.bg-flower {
+  background-color: #d428e0 !important;
+}
+
+.bg-menta {
+  background-color: #3efacb !important;
+}
+
 .bg-transparent {
   background-color: transparent !important;
+}
+
+.bg-colors {
+  background-color: #ffbbba !important;
 }
 
 .border {
