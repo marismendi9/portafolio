@@ -6439,7 +6439,7 @@ button.bg-dark:focus {
 }
 
 .bg-flower {
-  background-color: #d428e0 !important;
+  background-color: #F442DF  !important;
 }
 
 .bg-menta {
@@ -6451,7 +6451,23 @@ button.bg-dark:focus {
 }
 
 .bg-colors {
-  background-color: #ffbbba !important;
+  background-color: #E7B3DC !important;
+}
+
+.bg-hike {
+  background-color: #153736 !important;
+}
+
+.bg-arte {
+  background-color: #BE056D !important;
+}
+
+.bg-ice {
+  background-color: #148D8A !important;
+}
+
+.border {
+  border: 1px solid #dee2e6 !important;
 }
 
 .border {
